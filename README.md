@@ -1,3 +1,5 @@
+Basing ourselves on the Official Gatsby Starter, we then installed Material UI following the [GatsbyGuides.com Gatsby 101 Adding Material UI](https://gatsbyguides.com/tutorial/add-material-ui) tutorial to give ourselves a cool Material UI based Gatsby Starter.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
